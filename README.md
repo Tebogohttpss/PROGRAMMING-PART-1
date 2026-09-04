@@ -7,3 +7,4 @@ docs: add Categories entity and relationship to Events
 docs: add Routes entity
 docs: add Enrolments junction table to resolve many-to-many
 docs: add Results entity with one-to-one relationship to Enrolments
+docs: complete relationship list and cardinalities
