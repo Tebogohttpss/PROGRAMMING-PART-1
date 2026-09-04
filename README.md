@@ -17,3 +17,4 @@ docs: add enrolments and results endpoints
 docs: add HTTP status codes to endpoint plan
 sql: create database and Users/Events tables
 sql: add Categories and Routes tables
+sql: add Enrolments and Results tables with constraints
