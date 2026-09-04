@@ -11,3 +11,4 @@ docs: complete relationship list and cardinalities
 docs: add Mermaid ERD diagram source
 docs: export ERD as PNG and add to /docs
 docs: draft API endpoint plan table structure
+	docs: add authentication and user profile endpoints
