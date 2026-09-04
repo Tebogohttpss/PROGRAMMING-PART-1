@@ -27,3 +27,4 @@ ci: add GitHub Actions workflow to validate repo structure
 ci: fix workflow file checks after testing
 docs: add CI screenshot and role descriptions to README
 docs: finalise README with system description and video link
+chore: review ERD, API plan and SQL for consistency
