@@ -21,3 +21,4 @@ sql: add Enrolments and Results tables with constraints
 sql: add sample data (organisers, participants, events)
 sql: add sample categories, enrolments and results
 sql: add validation SELECT queries
+sql: bracket reserved-style identifiers for SSMS compatibility
